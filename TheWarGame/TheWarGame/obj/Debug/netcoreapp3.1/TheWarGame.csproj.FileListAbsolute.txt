@@ -1,0 +1,11 @@
+C:\Users\phat7\source\ClassRepos\TheWarGame\TheWarGame\bin\Debug\netcoreapp3.1\TheWarGame.exe
+C:\Users\phat7\source\ClassRepos\TheWarGame\TheWarGame\bin\Debug\netcoreapp3.1\TheWarGame.deps.json
+C:\Users\phat7\source\ClassRepos\TheWarGame\TheWarGame\bin\Debug\netcoreapp3.1\TheWarGame.runtimeconfig.json
+C:\Users\phat7\source\ClassRepos\TheWarGame\TheWarGame\bin\Debug\netcoreapp3.1\TheWarGame.runtimeconfig.dev.json
+C:\Users\phat7\source\ClassRepos\TheWarGame\TheWarGame\bin\Debug\netcoreapp3.1\TheWarGame.dll
+C:\Users\phat7\source\ClassRepos\TheWarGame\TheWarGame\bin\Debug\netcoreapp3.1\TheWarGame.pdb
+C:\Users\phat7\source\ClassRepos\TheWarGame\TheWarGame\obj\Debug\netcoreapp3.1\TheWarGame.AssemblyInfoInputs.cache
+C:\Users\phat7\source\ClassRepos\TheWarGame\TheWarGame\obj\Debug\netcoreapp3.1\TheWarGame.AssemblyInfo.cs
+C:\Users\phat7\source\ClassRepos\TheWarGame\TheWarGame\obj\Debug\netcoreapp3.1\TheWarGame.dll
+C:\Users\phat7\source\ClassRepos\TheWarGame\TheWarGame\obj\Debug\netcoreapp3.1\TheWarGame.pdb
+C:\Users\phat7\source\ClassRepos\TheWarGame\TheWarGame\obj\Debug\netcoreapp3.1\TheWarGame.csprojAssemblyReference.cache
